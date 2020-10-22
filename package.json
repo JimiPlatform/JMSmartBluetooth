@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "install": "^0.13.0",
-    "react-native-cli": "^2.0.1",
-    "react-native-ftp-jm": "^1.2.5"
-  }
-}

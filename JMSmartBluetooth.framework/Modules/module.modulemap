@@ -1,0 +1,6 @@
+framework module JMSmartBluetooth {
+  umbrella header "JMSmartBluetooth.h"
+
+  export *
+  module * { export * }
+}
