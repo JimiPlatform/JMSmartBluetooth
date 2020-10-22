@@ -15,7 +15,6 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
 
   s.frameworks = ["CoreBluetooth"]
-  s.dependency 'iOSDFULibrary', '4.5.1'
   
   #以framework方式发布
   s.source       = { :git => "https://github.com/JimiPlatform/JMSmartBluetooth.git", :tag => "#{s.version}" }
